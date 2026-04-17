@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Ben, a software dev student at Durham College based in Toronto.
+I'm Buianto (Ben), a software dev student at Durham College based in Toronto.
 
 I build things and if it sounds like a fun problem, I'm probably already halfway through it.
 
